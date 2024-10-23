@@ -32,10 +32,11 @@
 
  ## Stats📈
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepanshigautam&theme=dark)](https://github.com/deepanshigautam)
-[![Deepanshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepanshigautam&show_icons=true&theme=dark)](https://github.com/deepanshigautam)
 
 <p align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepanshigautam&theme=dark)](https://github.com/deepanshigautam)
+[![Deepanshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepanshigautam&show_icons=true&theme=dark)](https://github.com/deepanshigautam)
  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepanshigautam&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=191919&locale=en&layout=compact&hide_border=false" alt="deepanshigautam" /> 
 
 </p>
