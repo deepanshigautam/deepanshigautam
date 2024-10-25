@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **gdeepanshi7505@gmail.com**
 
-- 📄 Know about my experiences [deepanshi.vercel.app](deepanshi.vercel.app)
+- 📄 Know about my experiences [deepanshi.vercel.app](https://deepanshi.vercel.app)
 
 ---
 
