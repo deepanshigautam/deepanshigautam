@@ -15,7 +15,7 @@
 
 
 ## 🎓 About Me
-- 🔭 I’m currently working on [**NaariSayz**](https://github.com/deepanshigautam/NaariSayz) and [**weatherApp using Flutter**](https://github.com/deepanshigautam/weatherApp).
+- 🔭 I’m currently working on  [**VachakAI**](https://github.com/deepanshigautam/VachakAI) and [**NaariSayz**](https://github.com/deepanshigautam/NaariSayz).
 
 - 🌱 I’m currently learning [**Flutter**](https://docs.flutter.dev/?_gl=1*e9p31h*_ga*NTA2ODMxMzQ1LjE3Mjk0MTIxMDg.*_ga_04YGWK0175*MTcyOTc0MzY4Ni4yLjAuMTcyOTc0MzY4Ni4wLjAuMA..).
 
